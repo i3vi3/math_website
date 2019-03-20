@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Tokyo Denki University"
   company_url = ""
   location = "Tokyo"
-  date_start = "201９-04-01"
+  date_start = "2019-04-01"
   date_end = ""
   # description = """Taught electronic engineering and researched semiconductor physics."""
   
