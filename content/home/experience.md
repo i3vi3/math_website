@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Professor"
+  company = "Tokyo Denki University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tokyo"
+  date_start = "201９-04-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  # description = """Taught electronic engineering and researched semiconductor physics."""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Professor"
+  company = "Hiroshima University"
   company_url = ""
-  location = "California"
+  location = "Hiroshima"
+  date_start = "2017-04-01"
+  date_end = "2019-03-31"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Assistant Professor (Special Appointment)"
+  company = "Hiroshima University"
+  company_url = ""
+  location = "Hiroshima"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2017-03-31"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Post-Doctoral Fellow"
+  company = "NCTS/TPE"
+  company_url = ""
+  location = "Taipei"
+  date_start = "2014-08-01"
+  date_end = "2015-12-31"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Assistant Professor (Special Appointment)"
+  company = "Hiroshima University"
+  company_url = ""
+  location = "Hiroshima"
+  date_start = "2013-04-01"
+  date_end = "2014-07-31"
+  # description = """ """
 
 +++
