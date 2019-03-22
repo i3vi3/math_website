@@ -4,5 +4,5 @@ date = "2014-10-23"
 publication_types = ["2"]
 publication = "Ann. Inst. Fourier (Grenoble), **65** (2015), no. 3, 975-1004"
 
-url_custom = [ { name = "Errata", url = "???.pdf" } ]
+links = [ { name = "Errata", url = "???.pdf" } ]
 +++
