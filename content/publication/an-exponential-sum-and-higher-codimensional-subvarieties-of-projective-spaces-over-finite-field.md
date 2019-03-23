@@ -1,7 +1,8 @@
 +++
-title = "An Exponential Sum and Higher-Codimensional Subvarieties of Projective Spaces Over Finite Field"
+title = "An exponential sum and higher-codimensional subvarieties of projective spaces over finite field"
 date = "2014-12-26"
 publication_types = ["2"]
 publication = "Hiroshima Math. J. **44** (2014), no. 3, 327-340"
-+++
 
+links = [ { icon_set = 'ai', icon = 'open-access', name = 'Journal Article', url = 'http://projecteuclid.org/euclid.hmj/1419619750' } ]
++++
