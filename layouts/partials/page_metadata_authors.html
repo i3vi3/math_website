@@ -2,9 +2,9 @@
 {{ if $.Params.authors }}
 {{ $authorLen := len $.Params.authors }}
 {{ if gt $authorLen 0 }}
-  (with
   {{ range $k, $v := $.Params.authors -}}
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      {{ if eq $k 0 }}(with{{ end}}
       <span itemprop="name">
         {{ $link := ($.Site.GetPage (printf "/authors/%s" $v)).RelPermalink }}
 
