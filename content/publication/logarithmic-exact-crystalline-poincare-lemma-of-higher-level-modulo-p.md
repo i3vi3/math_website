@@ -1,5 +1,5 @@
 +++
-title = "Logarithmic crystalline Poincare lemma of higher level modulo p"
+title = "Logarithmic exact crystalline Poincare lemma of higher level modulo p"
 publication_types = [ "2" ]
 publication = "J. Algebra, **451** (2016), no. 1, 85-114"
 date = "2016-04-01"
