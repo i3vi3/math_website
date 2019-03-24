@@ -4,5 +4,5 @@ date = "2019-01-01"
 publication_types = [ "2" ]
 publication = "Amer. J. Math. (to appear)"
 
-links = [ { name = "arXiv preprint", url = "https://arxiv.org/abs/1607.04852" } ]
+links = [ { icon_pack = "ai", icon = "arXiv", name = "arXiv preprint", url = "https://arxiv.org/abs/1607.04852" } ]
 +++
