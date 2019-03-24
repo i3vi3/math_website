@@ -2,11 +2,11 @@
 name = "Mixed"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Vollkorn:400,400italic,700"
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Vollkorn:400,400italic,700|Merriweather:400,400italic,700"
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Vollkorn"
+body_font = "Merriweather"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
 
