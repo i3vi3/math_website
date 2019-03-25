@@ -3,6 +3,7 @@ title = "An exponential sum and higher-codimensional subvarieties of projective 
 date = "2014-12-26"
 publication_types = ["2"]
 publication = "Hiroshima Math. J. **44** (2014), no. 3, 327-340"
+authors = [ "M. Sano" ]
 
 links = [ { name = 'Article <i class="ai ai-open-access"></i>', url = 'http://projecteuclid.org/euclid.hmj/1419619750' } ]
 +++
