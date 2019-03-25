@@ -1,6 +1,6 @@
 +++
 # A Preprints section created with the Pages widget.
-# This section displays all posts from `content/preprint/`.
+# This section displays all preprints from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
