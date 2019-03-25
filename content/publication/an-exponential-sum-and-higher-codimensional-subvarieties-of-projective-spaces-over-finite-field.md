@@ -5,5 +5,5 @@ publication_types = ["2"]
 publication = "Hiroshima Math. J. **44** (2014), no. 3, 327-340"
 authors = [ "M. Sano" ]
 
-links = [ { name = 'Article <i class="ai ai-open-access"></i>', url = 'http://projecteuclid.org/euclid.hmj/1419619750' } ]
+links = [ { icon_pack = 'ai', icon = 'open-access', name = 'Article', url = 'http://projecteuclid.org/euclid.hmj/1419619750' } ]
 +++
