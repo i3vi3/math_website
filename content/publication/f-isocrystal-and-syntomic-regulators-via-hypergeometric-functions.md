@@ -5,5 +5,5 @@ publication_types = ["6"]
 publication = "submitted"
 authors = [ "M. Asakura" ]
 
-links = [ { icon_pack = 'ai', icon = 'arxiv', name = 'Preprint', url = 'https://arxiv.org/abs/1901.03488' } ]
+links = [ { icon_pack = 'ai', icon = 'arxiv', name = 'Preprint', url = 'https://arxiv.org/abs/1711.08854' } ]
 +++
