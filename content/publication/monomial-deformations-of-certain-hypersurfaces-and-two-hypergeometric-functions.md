@@ -9,7 +9,10 @@ math = true
 links = [ { icon_pack = "ai", icon = "", name = "Journal Article", url = "https://doi.org/10.1142/S1793042115501122" }, { name = "Errata", url = "???.pdf" } ]
 +++
 
-# Errata
+## Errata
 
-##### Notation 3.5, (ii), 1.2
-$\rho_r^{s_j}$ should read $\rho_r^{|s_j|}.
+###### Remark 1.3, l.3
+Our function does not coincide with the one defined by McCarthy, but coincides with $(-1)$-times of it.
+
+###### Notation 3.5, (ii), 1.2
+$\rho_r^{s_j}$ should read $\rho_r^{|s_j|}$.
