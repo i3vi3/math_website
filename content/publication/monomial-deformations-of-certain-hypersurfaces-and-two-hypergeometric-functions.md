@@ -6,7 +6,7 @@ date = "2015-01-25"
 
 math = true
 
-links = [ { icon_pack = "ai", icon = "", name = "Journal Article", url = "https://doi.org/10.1142/S1793042115501122" }, { icon_pack = "far", icon="exclamation", name = "Errata", url = "???.pdf" } ]
+links = [ { icon_pack = "ai", icon = "", name = "Article", url = "https://doi.org/10.1142/S1793042115501122" }, { icon_pack = "far", icon="exclamation", name = "Errata", url = "???.pdf" } ]
 +++
 
 ## Errata
