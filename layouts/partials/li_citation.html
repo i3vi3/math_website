@@ -28,7 +28,8 @@
   {{- .Params.publication | markdownify -}},
   {{ end }}
   {{- .Date.Format "2006" -}}.
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
-
+  <div class="btn-links">
+  {{ partial "page_links" (dict "content" . "is_list" 1) }}
+  </div>
   {{ end }}
 </div>
