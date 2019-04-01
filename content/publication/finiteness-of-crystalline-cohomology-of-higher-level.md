@@ -17,10 +17,10 @@ $(0\leq i\leq r)$ should read $(0\leq i\leq r-1)$.
 This line should read: "We define the sub-DGA $N\mathscr{P}^{(m),\bullet}\_{X/S}$ of $\mathscr{P}^{(m),\bullet}\_{X/S}$ by".
 
 ###### p.987, (2.2)
-$\cap^{r+1}_{i=0}$ should read $\cap_{i=0}^{r-1}$.
+$\cap^{r+1}\_{i=0}$ should read $\cap\_{i=0}^{r-1}$.
 
 ###### p.988, (2.3)
-$\cap^{r+2}_{i=0}$ should read $\cap_{i=0}^r$.
+$\cap^{r+2}\_{i=0}$ should read $\cap\_{i=0}^r$.
 
 ###### p.1002, l.17
 "a zero morphism" should read "a zero morphism at degree $\geq 1$".
