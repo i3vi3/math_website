@@ -14,4 +14,13 @@ links = [ { icon_pack = 'far', icon = 'book', name='Article', url = "https://doi
 $(0\leq i\leq r)$ should read $(0\leq i\leq r-1)$.
 
 ###### p.987 Subsection 2.5, l.3
-This line should read: "We define the sub-DGA $N\mathscr{P}^{(m),\bullet}_{X/S}$ of $\mathscr{P}^{(m),\bullet}$ by
+This line should read: "We define the sub-DGA $N\mathscr{P}^{(m),\bullet}_{X/S}$ of $\mathscr{P}^{(m),\bullet}_{X/S}$ by".
+
+###### p.987, (2.2)
+$\cap^{r+1}_{i=0}$ should read $\cap_{i=0}^{r-1}$.
+
+###### p.988, (2.3)
+$\cap^{r+2}_{i=0}$ should read $\cap_{i=0}^r$.
+
+###### p.1002, l.17
+"a zero morphism" should read "a zero morphism at degree $\geq 1$".
