@@ -11,6 +11,10 @@
   languageCode = "ja-jp"
   contentDir = "content/ja"
   title = "宮谷 和尭"
+  [[ja.menu.main]]
+  name = "連絡先"
+  url = "#contact"
+  weight = 60
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
