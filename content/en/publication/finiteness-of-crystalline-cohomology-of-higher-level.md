@@ -6,7 +6,7 @@ publication = "Ann. Inst. Fourier (Grenoble), **65** (2015), no. 3, 975-1004"
 
 math = true
 
-links = [ { icon_pack = 'far', icon = 'book', name='Article', url = "https://doi.org/10.5802/aif.2949" }, { icon_pack = "far", icon = "sticky-note", name = "Errata", url = "publication/finiteness-of-crystalline-cohomology-of-higher-level/" } ]
+links = [ { icon_pack = 'fas', icon = 'book', name='Article', url = "https://doi.org/10.5802/aif.2949" }, { icon_pack = "far", icon = "sticky-note", name = "Errata", url = "publication/finiteness-of-crystalline-cohomology-of-higher-level/" } ]
 +++
 
 ## Errata
