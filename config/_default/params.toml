@@ -50,12 +50,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "miyatani@mail.dendai.ac.jp"
+email = "miyatani@omu.ac.jp"
 # phone = "888 888 88 88"
-address = "51120, 5 Senju Asahi-Cho, Adachi-Ku, Tokyo, 120-8551, Japan"
+address = "1-1, Gakuen-cho, Naka-ku, Sakai-shi, Osaka, 599-8531, Japan"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Tuesday 11:30 to 12:30"
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
