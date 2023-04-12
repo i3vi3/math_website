@@ -18,12 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Specially Appointed Lecturer"
+  company = "Osaka Metropolitan University"
+  company_url = ""
+  location = "Osaka"
+  date_start = "2019-04-01"
+  date_end = ""
+
+[[experience]]
   title = "Assistant Professor"
   company = "Tokyo Denki University"
   company_url = ""
   location = "Tokyo"
   date_start = "2019-04-01"
-  date_end = ""
+  date_end = "2023-03-31"
   # description = """Taught electronic engineering and researched semiconductor physics."""
   
 

@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Assistant Professor"
+role = "Specially Appointed Lecturer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Tokyo Denki University", url = "" } ]
+organizations = [ { name = "Osaka Metropolitan University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include arithmetic aspects of differential equations and special functions."
@@ -62,4 +62,4 @@ user_groups = []
 
 +++
 
-Kazuaki MIYATANI is an assistant professor at Tokyo Denki University. His research interests include arithmetic aspects of differential equations and special functions.
+Kazuaki MIYATANI is a specially appointed lecturer at Osaka Metropolitan University. His research interests include arithmetic aspects of differential equations and special functions.
