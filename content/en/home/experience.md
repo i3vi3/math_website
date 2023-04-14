@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Osaka Metropolitan University"
   company_url = ""
   location = "Osaka"
-  date_start = "2019-04-01"
+  date_start = "2023-04-01"
   date_end = ""
 
 [[experience]]
