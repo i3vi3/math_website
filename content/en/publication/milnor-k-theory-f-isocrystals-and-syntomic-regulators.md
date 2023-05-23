@@ -1,7 +1,7 @@
 +++
 title = "Milnor K-theroy, F-isocrystals and Syntomic Regulators"
-date = "2020-08-14"
-publication_types = ["2"]
+date = "2023"
+publication_types = ["6"]
 publication = "to appear in Journal of the Institute of Mathematics of Jussieu"
 authors = [ "M. Asakura" ]
 
