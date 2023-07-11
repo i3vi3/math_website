@@ -4,5 +4,7 @@ publication_types = [ "2" ]
 publication = "J. Algebra, **451** (2016), no. 1, 85-114"
 date = "2016-04-01"
 
-links = [ { icon_pack = "fas", icon = "book", name = "Article", url = "https://doi.org/10.1016/j.jalgebra.2015.06.012" } ]
+1inks = [
+	https://doi.org/10.1017/S1474748023000208
+	 { icon_pack = "fas", icon = "book", name = "Article", url = "https://doi.org/10.1016/j.jalgebra.2015.06.012" } ]
 +++
