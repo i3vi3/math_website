@@ -1,7 +1,7 @@
 +++
 title = "Milnor K-theory, F-isocrystals and Syntomic Regulators"
-date = "2023"
-publication_types = ["1"]
+date = "2023-05-01"
+publication_types = ["2"]
 publication = "to appear in Journal of the Institute of Mathematics of Jussieu"
 authors = [ "M. Asakura" ]
 
