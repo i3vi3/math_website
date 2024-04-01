@@ -62,4 +62,4 @@ user_groups = []
 
 +++
 
-Kazuaki MIYATANI is a specially appointed lecturer at Osaka Metropolitan University. His research interests include arithmetic aspects of differential equations and special functions.
+Kazuaki MIYATANI is an associate professor at Tokushima University. His research interests include arithmetic aspects of differential equations and special functions.
