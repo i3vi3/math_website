@@ -2,6 +2,8 @@ baseurl = "/"
 title = "Kazuaki MIYATANI"
 theme = "mathweb"
 
+disableKinds = ['taxonomy', 'term']
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
