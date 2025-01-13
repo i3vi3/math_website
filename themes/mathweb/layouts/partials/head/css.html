@@ -1,0 +1,15 @@
+{{- with resources.Get "css/main.css" }}
+  {{- if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+      <style type="text/css">
+        span.publication_title { color: red; }
+      </style>
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      <style type="text/css">
+        span.publication_title { color: red; }
+      </style>
+    {{- end }}
+  {{- end }}
+{{- end }}

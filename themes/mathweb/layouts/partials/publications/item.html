@@ -1,0 +1,14 @@
+<li style="padding-bottom: 10pt;">
+  {{ if .Params.coauthors }}
+  (with {{ index .Params.coauthors 0 }})
+  {{ end }}
+  <a href="{{ if .Params.doi }}{{ .Params.doi }}{{ end }}" style="line-break: loose;" class="publication_title">{{ .Title }}</a>
+  <br />
+  {{ .Params.journal }}
+  <strong>{{ .Params.volume }}</strong>
+  ({{ .Params.year }}),
+  {{ if .Params.issue }}
+    {{ .Params.issue }},
+  {{ end }}
+  {{ .Params.pages }}.
+</li>

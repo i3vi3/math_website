@@ -1,0 +1,13 @@
+baseurl = "/"
+title = "Kazuaki MIYATANI"
+theme = "mathweb"
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageName = 'English'

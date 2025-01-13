@@ -1,0 +1,23 @@
+{{- with resources.Get "css/main.css" }}
+  {{- if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="https://unpkg.com/mvp.css"> 
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+      <style type="text/css">
+	a {
+		display: inline;
+	}
+        a.publication_title  { font-style: upright ; font-weight: bold;
+	}
+        span.publication_volume { font-weight: bold; }
+      </style>
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link href="https://unpkg.com/@primer/css@^20.2.4/dist/primer.css" rel="stylesheet" />
+      <style type="text/css">
+        span.publication_title { font-style: italic; quotes: '\201c' '\201d' }
+        span.publication_title:before { content: open-quote; }
+        span.publication_title:after  { content: close-quote; }
+      </style>
+    {{- end }}
+  {{- end }}
+{{- end }}
