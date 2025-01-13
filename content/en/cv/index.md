@@ -1,8 +1,5 @@
 +++
 title = "CV"
-[build]
-  render = "always"
-  publishResources = "true"
 +++
 
 <h2>Education</h2>
