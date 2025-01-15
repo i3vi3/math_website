@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://math.miyatani.org/"
 title = "Kazuaki MIYATANI"
 theme = "mathweb"
 
@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.en]
+    contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageName = 'English'
