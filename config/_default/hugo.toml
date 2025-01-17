@@ -5,7 +5,9 @@ theme = "mathweb"
 disableKinds = ['taxonomy', 'term', 'sitemap']
 
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
+
+buildDrafts = true
 
 [languages]
   [languages.en]
@@ -13,4 +15,4 @@ defaultContentLanguageInSubdir = true
     disabled = false
     languageCode = 'en-US'
     languageName = 'English'
-    weight = 1
+    weight = 10

@@ -1,3 +1,11 @@
 {{ define "main" }}
+  {{ .Site.AllPages.Len }}
+  {{ range .Site.AllPages }}
+  {{ debug.Dump . }} <br />
+  {{ end }}
+  {{ range .Site.AllPages }}
+  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+  BuildDrafts: {{ .Site.BuildDrafts }}
   {{ .Content }}
 {{ end }}
