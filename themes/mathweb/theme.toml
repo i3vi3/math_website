@@ -10,8 +10,8 @@ description = 'Theme description'
 # demosite = 'https://owner.github.io/repo'
 
 # Taxonomy terms
-# tags = ['blog', 'company']
-# features = ['some', 'awesome', 'features']
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
 
 # If the theme has a single author
 [author]
