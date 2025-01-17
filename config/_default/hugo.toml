@@ -2,7 +2,7 @@ baseurl = "https://math.miyatani.org/"
 title = "Kazuaki MIYATANI"
 theme = "mathweb"
 
-disableKinds = ['taxonomy', 'term']
+disableKinds = ['taxonomy', 'term', 'sitemap']
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
