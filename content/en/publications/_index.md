@@ -6,6 +6,6 @@ title = "Publications"
 [[cascade]]
   [cascade.build]
     list = "local"
-    publishResources = false
-    render = "never"
+    publishResources = true
+    render = "always"
 +++
